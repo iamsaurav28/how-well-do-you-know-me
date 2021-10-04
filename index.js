@@ -84,7 +84,7 @@ score = score + 1;
   console.log("score is:" + score)
 }
 
-var thankyoumessage = " thank you! smart boi " + username  ;
+var thankyoumessage = " thank you! " + username  ;
 console.log(thankyoumessage);
 
 
